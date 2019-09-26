@@ -7,7 +7,10 @@
 **Explore US Bikeshare Data**
 
 ### Description
-Describe what your project is about and what it does
+
+*This project aims to take in user input to filter bike rentals data
+for three major cities (Chicago, New York and Washington) and print
+out basic descriptive stats for the filtered selection*
 
 ### Files used
 
